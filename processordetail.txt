@@ -1,1 +1,2 @@
 Quad core processor
+with cache
